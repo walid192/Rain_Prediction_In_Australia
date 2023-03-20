@@ -1,1 +1,1 @@
-# Rain_Prediction_In_Australia
+# In this project ,we will use a rainfall dataset from Australian Government's Bureau of Meteorology , clean the data, and apply different classification algorithm on the data and we will build a classifier to predict whether there will be rain the following day.
